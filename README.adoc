@@ -1,0 +1,3 @@
+== whitespace
+
+Infinite Ink *might* write about setting up Hugo using this sweet simple theme by Niklas Fasching (@niklasfasching).
